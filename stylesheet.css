@@ -2,7 +2,8 @@ table {
   margin-left:auto;
   margin-right:auto;
   font-family: arial, sans-serif;
-  width: 200px;
+  width: 400px;
+  border-collapse: collapse;
 }
 
 td, th {
